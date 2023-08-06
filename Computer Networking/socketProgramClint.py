@@ -4,7 +4,6 @@ server_host = "192.168.0.5"
 server_port = 8000
 
 server_socket = socket(AF_INET , SOCK_STREAM)
-
 server_socket.connect((server_host , server_port))
 
 
