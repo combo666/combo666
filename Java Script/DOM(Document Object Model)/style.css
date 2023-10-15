@@ -1,0 +1,43 @@
+#counterLabel{
+    display: block;
+    text-align: center;
+    font-size: 50px;
+    color: rgb(228, 15, 15);
+}
+
+#div1 {
+    text-align: center;
+    margin-top: 20px;
+}
+  
+button {
+padding: 10px 20px;
+margin: 0 10px;
+font-size: 16px;
+cursor: pointer;
+}
+
+#decrease {
+background-color: #FF6347;
+color: #FFF;
+border: none;
+}
+
+#reset {
+background-color: #6495ED;
+color: #FFF;
+border: none;
+}
+
+#increase {
+background-color: #32CD32;
+color: #FFF;
+border: none;
+}
+
+#myButton{
+    background-color: #3fd4bc;
+    color: rgb(6, 32, 24);
+    border: none;
+}
+  
