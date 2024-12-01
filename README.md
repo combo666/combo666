@@ -1,7 +1,7 @@
 ## 🎧Listen With me
 
 &nbsp;<div align="center">
-  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brmb3cdfllf69he73sedzs5jc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=brmb3cdfllf69he73sedzs5jc&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=brmb3cdfllf69he73sedzs5jc&cover_image=false&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=brmb3cdfllf69he73sedzs5jc&redirect=true)
 </div>
 
 &nbsp;<div align="center">
